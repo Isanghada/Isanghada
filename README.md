@@ -10,7 +10,7 @@
 ![Isanghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isanghada&show_icons=true&theme=white)
 <br/>
 
-## 💻tech & tools
+## 💻Tech & Tools
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=susu4788)
 <br/>**사용할 수 있는 기술들 중에서 순위를 나누었습니다.**
 <br/>🥇 <br/>
