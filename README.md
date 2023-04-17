@@ -31,9 +31,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 
-
-<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=coffeescript&logoColor=000000"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=000000"/>
-
 <!--
 **Isanghada/Isanghada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
