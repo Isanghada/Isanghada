@@ -1,5 +1,8 @@
-### Hi there 👋
+### Back-End Engineer 김남규 ✌
 
+<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=coffeescript&logoColor=000000"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=000000"/>
+
+![Isanghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isanghada&show_icons=true&theme=dark)
 <!--
 **Isanghada/Isanghada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
