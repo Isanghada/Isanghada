@@ -7,12 +7,14 @@
  - 📫 susu4788@naver.com
  - 📙 [노션 포트폴리오](https://honeysuckle-nova-d4d.notion.site/NamGyu-Kim-c77e01b56bd24bc8b744205c8089ef76)
 
-![Isanghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isanghada&show_icons=true&theme=white)
-<br/>
+- Github 통계</br>
+  ![Isanghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isanghada&show_icons=true&theme=white)
 
 ## 💻Tech & Tools
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=susu4788)
-<br/>**사용할 수 있는 기술들 중에서 순위를 나누었습니다.**
+- 백준 통계</br>
+  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=susu4788)
+
+**사용할 수 있는 기술들 중에서 순위를 나누었습니다.**
 <br/>🥇 <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
